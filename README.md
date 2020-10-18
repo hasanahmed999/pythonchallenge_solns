@@ -10,7 +10,7 @@ http://wiki.pythonchallenge.com/index.php?title=Main_Page
 # STATUS:
 - [X] Level 0
 - [X] Level 1
-- [ ] Level 2
+- [X] Level 2
 - [ ] Level 3
 - [ ] Level 4
 - [ ] Level 5
