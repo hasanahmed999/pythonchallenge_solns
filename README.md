@@ -7,6 +7,8 @@ http://wiki.pythonchallenge.com/index.php?title=Main_Page
 Assume python3 is used for development
 http://wiki.pythonchallenge.com/index.php?title=Main_Page
 
+If you somehow find this page and are working on these challenges, please make sure you've tried your best before viewing a solution
+
 # STATUS:
 - [X] Level 0
 - [X] Level 1
